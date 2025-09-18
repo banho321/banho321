@@ -7,7 +7,6 @@ Kỹ sư hệ thống | System Engineer
 - Linux
 - Docker
 - Kubernetes (k8s)
-- ... (bổ sung thêm kỹ năng tại đây)
 
 ## 🚀 Dự án nổi bật
 - [card-game](https://github.com/banho321/card-game): Game bài online đơn giản.
