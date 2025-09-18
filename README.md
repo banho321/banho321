@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là banho321
 
-<!--
-**banho321/banho321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Nghề nghiệp
+Kỹ sư hệ thống | System Engineer
 
-Here are some ideas to get you started:
+## 🛠 Kỹ năng
+- Linux
+- Docker
+- Kubernetes (k8s)
+- ... (bổ sung thêm kỹ năng tại đây)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Dự án nổi bật
+- [card-game](https://github.com/banho321/card-game): Game bài online đơn giản.
+- [thiepcuoi](https://github.com/banho321/thiepcuoi): Website thiệp cưới cá nhân hóa.
+- [accessory-spirit](https://github.com/banho321/accessory-spirit): Quản lý phụ kiện và linh kiện.
+- [Angel-Wings-App](https://github.com/beshin1298/Angel-Wings-App): Ứng dụng quản lý cho cộng đồng.
+- [phalcon-speedup](https://github.com/tuannguyen29/phalcon-speedup): Tối ưu hiệu suất cho framework Phalcon.
+
+## 🎓 Chứng chỉ & Thành tích
+- (Thêm chứng chỉ, thành tích hoặc fun fact nếu muốn)
+
+## 🌐 Liên hệ & Mạng xã hội
+- LinkedIn: (Thêm link)
+- Facebook: (Thêm link)
+- Website cá nhân: (Thêm link nếu có)
+
+## 📫 Vài dòng giới thiệu
+Xin chào! Tôi là một kỹ sư hệ thống với niềm đam mê về công nghệ, đặc biệt là các nền tảng Linux, container và tự động hóa hạ tầng. Tôi thích xây dựng các giải pháp tối ưu, bảo mật và hiệu quả cho doanh nghiệp.
+
+> Bạn có thể chỉnh sửa lại nội dung phía trên cho phù hợp với cá nhân!
+
+---
+
+_Cảm ơn bạn đã ghé thăm hồ sơ của tôi!_
